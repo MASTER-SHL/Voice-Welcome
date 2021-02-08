@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/54/19/02/541902f716f7edd427cfa5a9e1230be6.png">  
-</p>
-
 <h1 align="center">Termux Voice Welcome - OnlineHacking</h1>
 <p align="center">
   Welcome Banner In Termux
@@ -11,16 +7,15 @@
 
 
 ### MAINTAINERS
-* **SUMAN MONDAL**| 
-Twitter: <a href="https://twitter.com/suman333mondal">@suman333mondal</a>
-Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
-Telegram: <a href="https://t.me/OnlineHacking">@OnlineHacking</a>
+* **SHAHUL**| 
+Github: <a href="https://github.com/MASTER-SHL">@MASTER-SHL</a>
+YouTube: <a href="https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ">@SHL VLOG</a>
 
-![unnamed (2)](https://i.pinimg.com/originals/32/9b/50/329b50a3d16e930c39414b1cd32948f7.jpg)
+Thanks
+Github: <a href="https://github.com/OnlineHacking">@OnlineHacking</a>
 
 ## Video Tutorials
-
-[Video](https://youtu.be/g8GF7n0O_LI)
+https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
 
 
 ## Requirements
@@ -41,7 +36,7 @@ $ apt-get upgrade -y
 $ pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/OnlineHacKing/Voice-Welcome.git
+$ git clone https://github.com/MASTER-SHL/Voice-Welcome.git
 ```
 ```
 $ cd Voice-Welcome
@@ -56,17 +51,14 @@ Now Type exit & restart Termux
 
 ### Update Tool
 ```
-$ rm -rf 'Voice-Welcome' && pkg install mpv -y && git clone https://github.com/OnlineHacKing/Voice-Welcome.git && cd Voice-Welcome && chmod +x * && sh install.sh && exit
-```
 
 ## Video Tutorials
-
-[Video](https://youtu.be/g8GF7n0O_LI)
+https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
 
 ### Subscribe our channel on youtube
-https://www.youtube.com/OnlineHacking
+https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
 
-### Chekout our webite 
+### Chekout webite 
 www.onlinehacking-net.com
 
 # ■□■□■□■□■□■□ Warning □■□■□■□■□■□■
@@ -78,19 +70,12 @@ www.onlinehacking-net.com
 
 # ■□■□■□■□■□■□ Social Media □■□■□■□■□■□■
 
-Website :- http://www.onlinehacking-net.com
 
-YouTube Channel :- https://bit.ly/on9youtube
+YouTube Channel :- https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
 
-Telegram Change :- https://t.me/OnlineHacking
 
-Telegram Group :- https://t.me/OnlineHacking0
+Github :- https://github.com/MASTER-SHL
 
-Github :- https://github.com/OnlineHacKing
-
-Facebook :-  https://bit.ly/facebook4page
-
-Twitter :- https://bit.ly/twittersuman
 
 Instagram :- https://bit.ly/instagram9oh
 
