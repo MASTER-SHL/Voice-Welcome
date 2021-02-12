@@ -36,10 +36,10 @@ $ apt-get upgrade -y
 $ pkg install mpv -y
 ```
 ```
-$ git clone https://github.com/MASTER-SHL/Voice-Welcome.git
+$ git clone https://github.com/MASTER-SHL/termux-styling.git
 ```
 ```
-$ cd Voice-Welcome
+$ cd termux-styling
 ```
 ```
 $ chmod +x *
