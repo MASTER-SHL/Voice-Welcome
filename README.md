@@ -1,4 +1,4 @@
-<h1 align="center">Termux styling - MASTER-SHL</h1>
+<h1 align="center">Termux styling</h1>
 <p align="center">
   Welcome Banner In Termux
 </p>
