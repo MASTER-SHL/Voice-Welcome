@@ -19,9 +19,7 @@ https://youtube.com/channel/UCC8P1xSDECr5URXD5bMrkFQ
 
 
 ## Requirements
-
-1. [Termux App](https://play.google.com/store/apps/details?id=com.termux&hl=en_IN)
-2. [Termux API App](https://play.google.com/store/apps/details?id=com.termux.api&hl=en_IN)
+1. [Termux API App](https://play.google.com/store/apps/details?id=com.termux.api&hl=en_IN)
 
 # ■□■□■□■□■□■□ Commands □■□■□■□■□■□■
 
